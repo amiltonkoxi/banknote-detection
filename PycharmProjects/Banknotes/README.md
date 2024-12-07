@@ -1,7 +1,3 @@
-Here is the corrected and properly structured version of your text:
-
----
-
 # Banknote Detection Project
 
 This project is designed to detect and classify Hungarian banknotes (HUF) in real-time or from static images using Microsoft's Azure Custom Vision.
