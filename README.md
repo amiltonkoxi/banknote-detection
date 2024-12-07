@@ -24,12 +24,16 @@ This project is designed to detect and classify Hungarian banknotes (HUF) in rea
    ```bash
    git clone https://github.com/USERNAME/banknote-detection.git
    cd banknote-detection
+## Demo
+
+### Example 1: Banknote Detection
+![Banknote Detection Example 1](images/test.png)
+
+### Example 2: Banknote Detection
+![Banknote Detection Example 2](images/test2.png)
 
 
-## Installation
-Sim, a formatação pode ser melhorada para ficar mais clara e visualmente agradável. Aqui está como você pode formatar a seção de "Installation" no `README.md` para que fique mais organizada e profissional:
 
----
 
 ## Installation
 
