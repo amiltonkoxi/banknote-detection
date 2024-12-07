@@ -64,10 +64,10 @@ This project is designed to detect and classify Hungarian banknotes (HUF) in rea
 ## Demo
 
 ### Example 1: Banknote Detection
-![Banknote Detection Example 1](images/test.png)
+![Banknote Detection Example 1](PycharmProjects/Banknotes/images/test.png)
 
 ### Example 2: Banknote Detection
-![Banknote Detection Example 2](images/test2.png)
+![Banknote Detection Example 2](PycharmProjects/Banknotes/images/test2.png)
 
 ---
 
